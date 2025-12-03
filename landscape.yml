@@ -16756,6 +16756,11 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/new-relic
             joined: '2018-10-01'
           - item:
+            name: NewCo, LLC (member)
+            homepage_url: https://newco.com
+            logo: NewCo_logo.svg
+            joined: '2025-12-03'
+          - item:
             name: NGINX (member)
             homepage_url: https://www.nginx.com
             logo: nginx.svg
