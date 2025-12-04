@@ -14492,6 +14492,11 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/nec
             joined: '2016-01-01'
           - item:
+            name: NewCo, llc (member)
+            homepage_url: https://www.newco.example
+            logo: NewCo_logo.svg
+            joined: '2025-12-01'
+          - item:
             name: Splunk (member)
             homepage_url: https://www.splunk.com
             logo: splunk.svg
