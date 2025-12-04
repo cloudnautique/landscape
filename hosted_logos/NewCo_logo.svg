@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 80" role="img">
+  <defs>
+    <style>
+      .text { font-family: Arial, sans-serif; font-weight: bold; fill: #2C3E50; }
+    </style>
+  </defs>
+  <rect x="10" y="15" width="50" height="50" fill="#3498DB" rx="5"/>
+  <text x="70" y="40" class="text" font-size="24">NewCo</text>
+  <text x="70" y="60" class="text" font-size="16" fill="#7F8C8D">LLC</text>
+</svg>
